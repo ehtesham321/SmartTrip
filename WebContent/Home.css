@@ -1,0 +1,61 @@
+#title { 
+    padding: 10px;
+    color:green;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+#nav {
+    float: right;
+    padding: 10px;
+    color:blue;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#form {
+    width: 50%;
+    position:fixed;
+    top:56%;
+    left:25%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    color:black;
+    font-size: 20px; 
+    border: 1px solid indigo;
+    border-radius: 5px;
+    background: white;
+}
+
+#info{
+    padding: 2px;
+    color:royalblue;
+    font-size: 30px; 
+    font-weight: 600;
+}
+
+#arrivalTime {
+    padding-top: 15px;
+}
+
+#departureTime {
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#citySelect {
+    padding-top: 15px;
+    padding-left: 105px;
+}
+
+#budget {
+    padding-top: 15px;
+}
+
+#interest {
+    padding-top: 15px; 
+}
+#buttons {
+    text-align: center;
+}
